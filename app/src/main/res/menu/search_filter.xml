@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemAll"
+        android:title="@string/all" />
+    <item
+        android:id="@+id/itemOld"
+        android:title="@string/old_first" />
+    <item
+        android:id="@+id/itemNew"
+        android:title="@string/new_first" />
+    <item
+        android:id="@+id/itemExpensive"
+        android:title="@string/expensive_first" />
+    <item
+        android:id="@+id/itemCheaper"
+        android:title="@string/cheaper_first" />
+</menu>

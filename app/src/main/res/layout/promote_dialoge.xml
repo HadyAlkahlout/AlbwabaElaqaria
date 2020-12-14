@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="0dp"
+    app:cardBackgroundColor="@color/colorPrimary"
+    app:cardCornerRadius="11dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="28dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/disc_account"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:fontFamily="@font/arab_font"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/colorAccent"
+            android:layout_marginStart="144dp"
+            android:layout_marginEnd="144dp"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/promot_massege"
+            android:textColor="@color/colorAccent"
+            android:textSize="14sp"
+            android:fontFamily="@font/arab_font"
+            android:layout_marginTop="8dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="vertical">
+            
+            <LinearLayout
+                android:id="@+id/llMonthPromote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:background="@drawable/circular_border_shape"
+                android:backgroundTint="@color/colorAccent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/ic_favorite"
+                    app:tint="@color/colorPrimary"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.65"
+                    android:text="@string/month_promot"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.05"
+                    android:text="$"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+                <TextView
+                    android:id="@+id/tvMonthPromotePrice"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="30"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llWeekPromote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:background="@drawable/circular_border_shape"
+                android:backgroundTint="@color/colorAccent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/ic_favorite"
+                    app:tint="@color/colorPrimary"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.65"
+                    android:text="@string/week_promot"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.05"
+                    android:text="$"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+                <TextView
+                    android:id="@+id/tvWeekPromotePrice"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="20"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/llDayPromote"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:background="@drawable/circular_border_shape"
+                android:backgroundTint="@color/colorAccent"
+                android:orientation="horizontal"
+                android:weightSum="1"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.2"
+                    android:src="@drawable/ic_favorite"
+                    app:tint="@color/colorPrimary"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.65"
+                    android:text="@string/day_promot"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.05"
+                    android:text="$"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+                <TextView
+                    android:id="@+id/tvDayPromotePrice"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.1"
+                    android:text="10"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp"
+                    android:textAlignment="center"
+                    android:fontFamily="@font/arab_font"/>
+
+            </LinearLayout>
+            
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

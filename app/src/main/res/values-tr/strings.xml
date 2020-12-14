@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البوابة العقارية</string>
+    <string name="user_name">Kullanıcı adı</string>
+    <string name="email">E-posta</string>
+    <string name="mobile_number">Telefon numarası</string>
+    <string name="city">Valilik</string>
+    <string name="region">Bölge</string>
+    <string name="inter">Uye olun</string>
+    <string name="register">Kayıt ol</string>
+    <string name="login_instract">Giriş bilgilerinizi girin</string>
+    <string name="register_instract">Kişisel bilgilerinizi alanlara girin</string>
+    <string name="verify_instract">Lutfen telefonunuza gonderilmiş etkinletirme kodunu yazınız</string>
+    <string name="confirm">Etkinleştirme</string>
+    <string name="resend">Kodu tekrar gonderin</string>
+    <string name="phone_instract">Lütfen geçerli bir telefon numarası girin</string>
+    <string name="home">Ev</string>
+    <string name="saller">komisyon..</string>
+    <string name="category">bölümler</string>
+    <string name="map">harita</string>
+    <string name="profile">bilgilerim</string>
+    <string name="hi">Hello</string>
+    <string name="search_hint">Bir mülk için search</string>
+    <string name="good_seller">Seckin gayrimenkul</string>
+    <string name="all">Tum</string>
+    <string name="good_biulding">Öne cıkan özellikler</string>
+    <string name="meter">Metrekare</string>
+    <string name="room">Oda</string>
+    <string name="bath">Banyo</string>
+    <string name="new_seller">Yeni emlak</string>
+    <string name="new_building">En son emlak</string>
+    <string name="the_map">Harita</string>
+    <string name="buildings_categories">Emlak Tipi</string>
+    <string name="land">Yerleşim alanı</string>
+    <string name="residential_unit">Konut Birimi</string>
+    <string name="com_land">Ticari arsa</string>
+    <string name="sell_unit">Satılık birim</string>
+    <string name="building">Bina</string>
+    <string name="apartment">Daire</string>
+    <string name="homes">Ev</string>
+    <string name="place">Dükkan</string>
+    <string name="hotel">Otel</string>
+    <string name="office">Ofis</string>
+    <string name="farm">Çiftlik / tarım arazileri</string>
+    <string name="chalet">Dağ evi</string>
+    <string name="my_info">Bilgilerim</string>
+    <string name="favorite">Favoriler</string>
+    <string name="notification">Doğuşlar</string>
+    <string name="terms_of_use">Kullanım koşulları</string>
+    <string name="add_property">Özellik ekle</string>
+    <string name="app_lang">Uygulama dili</string>
+    <string name="frequently_asked_questions">Surekli sorunan sorular</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="call_us">Bizi ara</string>
+    <string name="save_changes">Değişik kaydetme</string>
+    <string name="empty_fav">Sık kullanılanlarda mülk yok</string>
+    <string name="empty_fav_det">Sık kullanılanlarda mülk yok</string>
+    <string name="go_shop">Gayrimenkullere göz atın</string>
+    <string name="full_name">Kullanıcı adı</string>
+    <string name="write_your_message">Buraya mesajınızı yazın</string>
+    <string name="send_request">istek gönder</string>
+    <string name="notification_setting">Bildirim ayarı</string>
+    <string name="push_notification">Bildirim almak</string>
+    <string name="other_notifications">Diğer Bildirim</string>
+    <string name="area">Uzay</string>
+    <string name="cm2">metre²</string>
+    <string name="look">Guzel görünüm </string>
+    <string name="service">Servis</string>
+    <string name="price">Ücret </string>
+    <string name="whatsup_number">Vatsup</string>
+    <string name="call_number">İletişim</string>
+    <string name="other_details">Detaylar</string>
+    <string name="add_ad">Duyuru Ekle</string>
+    <string name="my_profile">Benim profilim</string>
+    <string name="member_since">O zamandan beri üye</string>
+    <string name="edit_account">Hesap ayarlaması</string>
+    <string name="promote_account">Hesap yükseltme</string>
+    <string name="discrimination">Ayrımcılık</string>
+    <string name="since">dan beri</string>
+    <string name="with_price">fiyatla</string>
+    <string name="bedroom">Oda</string>
+    <string name="extra_meter">Ekstra Alan</string>
+    <string name="call">İletişim</string>
+    <string name="whats_up">Vatsup</string>
+    <string name="my_properties">Mülklerim</string>
+    <string name="ok">Tamam</string>
+    <string name="settings">Ayarlar</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="edit_profile">Hesap ayarlaması</string>
+    <string name="login_faild">Sisteme giriş hatası</string>
+    <string name="empty_fields">Lütfen boş alanları doldurun</string>
+    <string name="try_again">Tekrar deneyin</string>
+    <string name="wrong_phone">Lütfen geçerli bir telefon numarası girin</string>
+    <string name="wrong_email">Lütfen geçerli bir e-posta girin</string>
+    <string name="wrong_name">lütfen tam adınızı giriniz</string>
+    <string name="welcome">Hoşgeldiniz</string>
+    <string name="somthing_wrong">Ters şeyler oldu!</string>
+    <string name="are_you_sure">Emin misiniz ?</string>
+    <string name="attention">Dikkat</string>
+    <string name="wrong_code">Yanlış kod</string>
+    <string name="resend_messsage">Telefon numaranıza yeni bir aktivasyon kodu geri gönderildi</string>
+    <string name="time_out">Aktivasyon kodunu yeniden gönderme sınırını aştınız. Başka bir gün tekrar dene</string>
+    <string name="loading_data">Veri yükleniyor…</string>
+
+    <string name="default_notification_channel_id">FCM_NOTIFICATIONS</string>
+
+    <string name="remove_fav">Mülk favorilerden kaldırıldı</string>
+    <string name="add_fav">Mülk favorilere eklendi</string>
+    <string name="upload_error">Üzgünüz, resmi yükleyemiyoruz!</string>
+    <string name="save_success">Bilgileriniz başarıyla kaydedildi!</string>
+    <string name="disc_account">Hesabı farklılaştırın</string>
+    <string name="promot_success">Hesabınız başarıyla ayırt edildi .. Artık hesabınız ana sayfanızda</string>
+    <string name="promot_massege">Artık hesabınızı ayırt edebilir ve ana sayfada görünmesini sağlayabilirsiniz</string>
+    <string name="month_promot">Hesabı bir ay için farklılaştırın</string>
+    <string name="week_promot">Hesabı bir hafta için farklılaştırın</string>
+    <string name="day_promot">Hesabı bir gün için farklılaştırın</string>
+    <string name="promote_done">Promosyon talebiniz gönderildi, en kısa sürede size yanıtla ilgili bilgi vereceğiz</string>
+    <string name="about_us">Hakkımızda</string>
+    <string name="call_success">Mesajınız gönderildi, kısa süre içinde sizinle iletişime geçeceğiz</string>
+    <string name="pick_lang">Dilinizi seçin</string>
+    <string name="update">Mağazada yeni bir güncelleme var, lütfen güncelleyin</string>
+    <string name="edit">Üzgünüz, uygulama bakım nedeniyle kapatıldı</string>
+    <string name="additional_feature">Ek özellikler</string>
+
+
+    <string name="why_to_pay">Duyurunun amacı</string>
+    <string name="dept">Bölüm</string>
+    <string name="type">Tür</string>
+    <string name="room_num">Oda numaraları</string>
+    <string name="bath_num">Banyo numaraları</string>
+    <string name="flor">Zemin</string>
+    <string name="old">Mülkün yaşı</string>
+    <string name="flor_num">Kat sayısı</string>
+    <string name="pay_way">Ödeme Yöntemi</string>
+    <string name="furnitur">Mobilya</string>
+    <string name="location">Yer</string>
+    <string name="map_empty">Etrafta gayrimenkul yok!</string>
+    <string name="permition_error">Emin misiniz? Yakınınızdaki mülkleri bulmanıza yardımcı olamayacağız!</string>
+    <string name="reask">Yeniden erişim izni isteyin</string>
+    <string name="yes">Evet</string>
+    <string name="photo_added">Resim başarıyla seçildi, daha fazlasını seçebilirsiniz</string>
+    <string name="pick_loc">Mülkün konumunu seçin</string>
+
+    <string name="for_sell">Satılık</string>
+    <string name="for_rent">Kiralık</string>
+    <string name="cash">Nakit</string>
+    <string name="tacset">Taksit</string>
+    <string name="furin">Mobilyalı</string>
+    <string name="unfurn">Mobilyasız</string>
+    <string name="add_out">Şimdi resim ekleyemezsiniz</string>
+    <string name="empty_search">Sonuç yok!</string>
+    <string name="delete">Sil</string>
+    <string name="editProp">Düzenle</string>
+    <string name="add_done">Mülk başarıyla eklendi</string>
+    <string name="delete_done">Mülk başarıyla silindi</string>
+    <string name="edit_done">Mülk bilgileri başarıyla değiştirildi</string>
+
+    <string name="old_first">Önce en eskisi</string>
+    <string name="new_first">En yeni ilk</string>
+    <string name="expensive_first">Önce en pahalı</string>
+    <string name="cheaper_first">Önce daha ucuz</string>
+
+
+    <string name="active">Bildirimler etkinleştirildi</string>
+    <string name="diactive">Bildirimler durduruldu</string>
+
+
+
+    <string-array name="why_pay">
+        <item>Satılık</item>
+        <item>Kiralık</item>
+    </string-array>
+
+    <string-array name="pay_method">
+        <item>Nakit</item>
+        <item>Taksit</item>
+    </string-array>
+
+    <string-array name="furniture">
+        <item>Mobilyalı</item>
+        <item>Mobilyasız</item>
+    </string-array>
+</resources>

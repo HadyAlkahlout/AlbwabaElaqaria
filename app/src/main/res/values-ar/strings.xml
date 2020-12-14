@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البوابة العقارية</string>
+    <string name="user_name">الاسم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="mobile_number">رقم الجوال</string>
+    <string name="city">المحافظة</string>
+    <string name="region">المنطقة</string>
+    <string name="inter">دخول</string>
+    <string name="register">سجل</string>
+    <string name="login_instract">أدخل معلومات الدخول الخاصة بك</string>
+    <string name="register_instract">أدخل معلوماتك الشخصية في الحقول</string>
+    <string name="verify_instract">الرجاء إدخال كود التفعيل المرسل لك عبر الـ sms</string>
+    <string name="confirm">تأكيد</string>
+    <string name="resend">اعادة ارسال الكود</string>
+    <string name="phone_instract">الرجاء ادخال رقم هاتف صحيح</string>
+    <string name="home">الرئيسية</string>
+    <string name="saller">سماسرة</string>
+    <string name="category">الأقسام</string>
+    <string name="map">خريطة</string>
+    <string name="profile">ملفي</string>
+    <string name="hi">مرحبا</string>
+    <string name="search_hint">ابحث عن عقارك</string>
+    <string name="good_seller">عقاريون متميزون</string>
+    <string name="all">الكل</string>
+    <string name="good_biulding">عقارات مميزة</string>
+    <string name="meter">متر مربع</string>
+    <string name="room">غرف</string>
+    <string name="bath">حمام</string>
+    <string name="new_seller">عقارييون جدد</string>
+    <string name="new_building">أحدث العقارات</string>
+    <string name="the_map">الخريطة</string>
+    <string name="buildings_categories">نوع العقار</string>
+    <string name="land">أرض سكنية</string>
+    <string name="residential_unit">وحدة سكنية</string>
+    <string name="com_land">أرض تجارية</string>
+    <string name="sell_unit">وحدة للبيع</string>
+    <string name="building">عمارة</string>
+    <string name="apartment">شقة</string>
+    <string name="homes">منزل</string>
+    <string name="place">محل</string>
+    <string name="hotel">فندق</string>
+    <string name="office">مكتب</string>
+    <string name="farm">مزرعة / أرض زراعية</string>
+    <string name="chalet">شاليه</string>
+    <string name="my_info">معلوماتي</string>
+    <string name="favorite">المفضلة</string>
+    <string name="notification">التنبيهات</string>
+    <string name="terms_of_use">شروط الاستخدام</string>
+    <string name="add_property">إضافة عقار</string>
+    <string name="app_lang">لغة التطبيق</string>
+    <string name="frequently_asked_questions">الاسئلة المتكررة</string>
+    <string name="privacy_policy">سياسية الخصوصية</string>
+    <string name="call_us">اتصل بنا</string>
+    <string name="save_changes">حفظ التغيرات</string>
+    <string name="empty_fav">لا يوجد مفضلة للعرض</string>
+    <string name="empty_fav_det">المفضلة فارغة حاليا</string>
+    <string name="go_shop">تصفح الأن</string>
+    <string name="full_name">اسمك كامل</string>
+    <string name="write_your_message">اكتب رسالتك هنا</string>
+    <string name="send_request">أرسال الطلب</string>
+    <string name="notification_setting">اعدادات التنبيهات</string>
+    <string name="push_notification">إرسال تنبيهات</string>
+    <string name="other_notifications">تنبيهات اخرى</string>
+    <string name="area">المساحة</string>
+    <string name="cm2">م²</string>
+    <string name="look">الاطلالة</string>
+    <string name="service">الخدمات</string>
+    <string name="price">السعر</string>
+    <string name="whatsup_number">رقم الواتساب</string>
+    <string name="call_number">رقم الاتصال</string>
+    <string name="other_details">التفاصيل</string>
+    <string name="add_ad">إضافة إعلان</string>
+    <string name="my_profile">ملفي الشخصي</string>
+    <string name="member_since">عضو منذ</string>
+    <string name="edit_account">تعديل الحساب</string>
+    <string name="promote_account">ترقية الحساب</string>
+    <string name="discrimination">تمييز</string>
+    <string name="since">منذ</string>
+    <string name="with_price">بسعر</string>
+    <string name="bedroom">غرف نوم</string>
+    <string name="extra_meter">مساحة اخري</string>
+    <string name="call">الاتصال</string>
+    <string name="whats_up">واتساب</string>
+    <string name="my_properties">عقاراتي</string>
+    <string name="ok">حسنا</string>
+    <string name="settings">الاعدادات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="login_faild">خطأ في التسجيل</string>
+    <string name="empty_fields">الرجاء تعبئة الحقول الفارغة</string>
+    <string name="try_again">حاول مرة اخرى</string>
+    <string name="wrong_phone">الرجاء ادخال رقم هاتف صحيح</string>
+    <string name="wrong_email">الرجاء ادخال بريد الكتروني صحيح</string>
+    <string name="wrong_name">الرجاء إدخال الأسم كامل</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="somthing_wrong">شيء ما حصل!</string>
+    <string name="are_you_sure">هل أنت متأكد ؟</string>
+    <string name="attention">انتبه</string>
+    <string name="wrong_code">كود تفعيل خاطء</string>
+    <string name="resend_messsage">تم إعادة ارسال كود تفعيل جديد الى رقم هاتفك</string>
+    <string name="time_out">لقد تجاوزت حد اعادة ارسال كود التفعيل حاول في يوم اخر</string>
+    <string name="loading_data">جلب البيانات</string>
+
+    <string name="default_notification_channel_id">FCM_NOTIFICATIONS</string>
+    <string name="remove_fav">تم أزالة العقار من المفضلة</string>
+    <string name="add_fav">تم إضافة العقار لللمفضلة</string>
+    <string name="upload_error">نأسف لم نستطه رفع الصورة!</string>
+    <string name="save_success">تم حفظ بياناتك بنجاح</string>
+    <string name="disc_account">تمييز الحساب</string>
+    <string name="promot_success">تم تمييز حسابك بنجاح .. الأن حسابك أساسي في الرئيسية</string>
+    <string name="promot_massege">يمكنك الان تميز حسابك و جعله في يظهر في الرئيسية بشكل أساسي</string>
+    <string name="month_promot">تمييز الحساب مدة شهر</string>
+    <string name="week_promot">تمييز الحساب مدة أسبوع</string>
+    <string name="day_promot">تمييز الحساب مدة يوم</string>
+    <string name="promote_done">تم ارسال طلب ترقيتك، سنبلغك بالرد في أقرب وقت</string>
+    <string name="about_us">من نحن؟</string>
+    <string name="call_success">تم ارسال رسالتك، سنراسلك عما قريب</string>
+    <string name="pick_lang">إختر لغتك</string>
+    <string name="update">هنالك تحديث جديد في المتجر، قم باللتحديث رجاءأ</string>
+    <string name="edit">نأسف التطبيق مغلق للصيانه</string>
+    <string name="additional_feature">مزايا اضافية</string>
+
+
+    <string name="why_to_pay">الغرض من الاعلان</string>
+    <string name="dept">القسم</string>
+    <string name="type">النوع</string>
+    <string name="room_num">عدد الغرف</string>
+    <string name="bath_num">عدد الحمامات</string>
+    <string name="flor">الطابق</string>
+    <string name="old">عمر العقار</string>
+    <string name="flor_num">عدد الطوابق</string>
+    <string name="pay_way">طريقة الدفع</string>
+    <string name="furnitur">الاثاث</string>
+    <string name="location">الموقع</string>
+    <string name="map_empty">لا يوجد عقارات حولك!</string>
+    <string name="permition_error">هل أن متأكد؟ لن نستطيع مساعدتك في ايجاد العقارات القريبة منك!</string>
+    <string name="reask">أعد طلب إذن الوصول</string>
+    <string name="yes">نعم</string>
+    <string name="photo_added">تم اختيار صورة بنجاح، يمكنك اختيار المزيد</string>
+    <string name="pick_loc">اختر موقع العقار</string>
+
+    <string name="for_sell">للبيع</string>
+    <string name="for_rent">للإيجار</string>
+    <string name="cash">كاش</string>
+    <string name="tacset">تقسيط</string>
+    <string name="furin">مفروش</string>
+    <string name="unfurn">غير مفروش</string>
+    <string name="add_out">لا يمكنك اضافة صور الان</string>
+    <string name="empty_search">لا يوجد نتائج !</string>
+    <string name="delete">حذف</string>
+    <string name="editProp">تعديل</string>
+    <string name="add_done">تم اضافة العقار بنجاح</string>
+    <string name="delete_done">تم حذف العقار بنجاح</string>
+    <string name="edit_done">تم تعديل معلومات العقار بنجاح</string>
+
+    <string name="old_first">الأقدم أولا</string>
+    <string name="new_first">الأحدث أولا</string>
+    <string name="expensive_first">الأغلى أولا</string>
+    <string name="cheaper_first">الأرخص أولا</string>
+
+
+    <string name="active">تم تفعيل ارسال الاشعارات</string>
+    <string name="diactive">تم ايقاف ارسال الاشعارات</string>
+
+
+
+    <string-array name="why_pay">
+        <item>للبيع</item>
+        <item>للإيجار</item>
+    </string-array>
+
+    <string-array name="pay_method">
+        <item>كاش</item>
+        <item>تقسيط</item>
+    </string-array>
+
+    <string-array name="furniture">
+        <item>مفروش</item>
+        <item>غير مفروش</item>
+    </string-array>
+</resources>

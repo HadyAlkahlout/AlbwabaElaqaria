@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23356136986",
+    "firebase_url": "https://albawaba-aqar.firebaseio.com",
+    "project_id": "albawaba-aqar",
+    "storage_bucket": "albawaba-aqar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23356136986:android:882fa50f00eb5f26fe3ba3",
+        "android_client_info": {
+          "package_name": "com.raiyansoft.alpwapaelaqaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23356136986-kvtjrv3alpckn0uhm0l2a5ajeugj52rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raiyansoft.alpwapaelaqaria",
+            "certificate_hash": "f6721c2f2f6d25050624b713c02e49d41c8eb0f7"
+          }
+        },
+        {
+          "client_id": "23356136986-aoa91mcp8baqm3n6c2flnuu6nhtu7pna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnnPN0p8ipNof24U7tIPRqeaC5gXN410"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23356136986-aoa91mcp8baqm3n6c2flnuu6nhtu7pna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

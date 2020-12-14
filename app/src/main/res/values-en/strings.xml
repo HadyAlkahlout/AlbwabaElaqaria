@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">البوابة العقارية</string>
+    <string name="user_name">Username</string>
+    <string name="email">اEmail</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="city">City</string>
+    <string name="region">Region</string>
+    <string name="inter">Login</string>
+    <string name="register">Register</string>
+    <string name="login_instract">Enter your login information</string>
+    <string name="register_instract">Enter your personal information in the fields</string>
+    <string name="verify_instract">Please enter the activation code sent to you via SMS</string>
+    <string name="confirm">Activation</string>
+    <string name="resend">Resend the code</string>
+    <string name="phone_instract">Please enter valid phone number</string>
+    <string name="home">Home</string>
+    <string name="saller">Brokers</string>
+    <string name="category">Categories</string>
+    <string name="map">Map</string>
+    <string name="profile">My Profile</string>
+    <string name="hi">Hello</string>
+    <string name="search_hint">Search for a property</string>
+    <string name="good_seller">Special real estate</string>
+    <string name="all">All</string>
+    <string name="good_biulding">Featured properties</string>
+    <string name="meter">Square meters</string>
+    <string name="room">Room</string>
+    <string name="bath">Bath</string>
+    <string name="new_seller">New real estate</string>
+    <string name="new_building">The latest properties</string>
+    <string name="the_map">The map</string>
+    <string name="buildings_categories">Property Type</string>
+    <string name="land">Residential land</string>
+    <string name="residential_unit">Residential Unit</string>
+    <string name="com_land">Commercial land</string>
+    <string name="sell_unit">Unit for sale</string>
+    <string name="building">Building</string>
+    <string name="apartment">Apartment</string>
+    <string name="homes">House</string>
+    <string name="place">Shop</string>
+    <string name="hotel">Hotel</string>
+    <string name="office">Office</string>
+    <string name="farm">Farm / farmland</string>
+    <string name="chalet">Chalet</string>
+    <string name="my_info">My Info.</string>
+    <string name="favorite">Favorite</string>
+    <string name="notification">Notifications</string>
+    <string name="terms_of_use">Terms of use</string>
+    <string name="add_property">Add a property</string>
+    <string name="app_lang">Application language</string>
+    <string name="frequently_asked_questions">Frequently asked questions</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="call_us">Call us</string>
+    <string name="save_changes">Saving changes</string>
+    <string name="empty_fav">There are no property in favorites</string>
+    <string name="empty_fav_det">There are no property in favorites</string>
+    <string name="go_shop">Browse real estate</string>
+    <string name="full_name">Full Name</string>
+    <string name="write_your_message">Type your message here</string>
+    <string name="send_request">Send Request</string>
+    <string name="notification_setting">Notification Setting</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="other_notifications">Other Notifications</string>
+    <string name="area">Area</string>
+    <string name="cm2">m²</string>
+    <string name="look">View</string>
+    <string name="service">Service</string>
+    <string name="price">Price</string>
+    <string name="whatsup_number">What\'s Up Number</string>
+    <string name="call_number">Call Number</string>
+    <string name="other_details">Details</string>
+    <string name="add_ad">Add Announcement</string>
+    <string name="my_profile">My Profile</string>
+    <string name="member_since">Member since</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="promote_account">Upgrade Account</string>
+    <string name="discrimination">Discrimination</string>
+    <string name="since">since</string>
+    <string name="with_price">with price</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="extra_meter">Extra Area</string>
+    <string name="call">Call</string>
+    <string name="whats_up">What\'s Up</string>
+    <string name="my_properties">My Properties</string>
+    <string name="ok">Ok</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="login_faild">Login Error</string>
+    <string name="empty_fields">Please fill in the blank fields</string>
+    <string name="try_again">Try Again</string>
+    <string name="wrong_phone">Please enter valid phone number</string>
+    <string name="wrong_email">Please enter valid email</string>
+    <string name="wrong_name">Please enter your full name</string>
+    <string name="welcome">Welcome</string>
+    <string name="somthing_wrong">Something wrong happened!</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="attention">Attention</string>
+    <string name="wrong_code">Wrong code</string>
+    <string name="resend_messsage">A new activation code has been sent back to your phone number</string>
+    <string name="time_out">You have exceeded the limit for re-sending the activation code. Try again in another day</string>
+    <string name="loading_data">Loading Data…</string>
+
+    <string name="default_notification_channel_id">FCM_NOTIFICATIONS</string>
+
+    <string name="remove_fav">The property has been removed from the favorites</string>
+    <string name="add_fav">The property has been add to the favorites</string>
+    <string name="upload_error">Sorry, we can\'t upload the image!</string>
+    <string name="save_success">Your info. saved successfully!</string>
+    <string name="disc_account">Differentiate the account</string>
+    <string name="promot_success">Your account has been successfully distinguished .. Now your account is main in the home</string>
+    <string name="promot_massege">You can now distinguish your account and make it appear in the home page</string>
+    <string name="month_promot">Differentiate the account for one month</string>
+    <string name="week_promot">Differentiate the account for one week</string>
+    <string name="day_promot">Differentiate the account for one day</string>
+    <string name="promote_done">Your promotion request has been sent, we will inform you of the response as soon as possible</string>
+    <string name="about_us">About Us</string>
+    <string name="call_success">Your message has been sent, we will contact you shortly</string>
+    <string name="pick_lang">Select your language</string>
+    <string name="update">There is a new update in the store, update please</string>
+    <string name="edit">Sorry, the application is closed for maintenance</string>
+    <string name="additional_feature">Additional features</string>
+
+
+    <string name="why_to_pay">Purpose of announcement</string>
+    <string name="dept">Section</string>
+    <string name="type">Type</string>
+    <string name="room_num">Number of rooms</string>
+    <string name="bath_num">Number of bathrooms</string>
+    <string name="flor">Floor</string>
+    <string name="old">Age of property</string>
+    <string name="flor_num">Number of floors</string>
+    <string name="pay_way">Pay Method</string>
+    <string name="furnitur">Furniture</string>
+    <string name="location">Location</string>
+    <string name="map_empty">There are no real estate around!</string>
+    <string name="permition_error">Are you sure? We will not be able to help you find properties near you!</string>
+    <string name="reask">Re-request access permission</string>
+    <string name="yes">Yes</string>
+    <string name="photo_added">Image selected successfully, you can choose more</string>
+    <string name="pick_loc">Pick property\'s location</string>
+
+    <string name="for_sell">For sale</string>
+    <string name="for_rent">For Rent</string>
+    <string name="cash">Cash</string>
+    <string name="tacset">Installment</string>
+    <string name="furin">Furnished</string>
+    <string name="unfurn">Unfurnished</string>
+    <string name="add_out">You cannot add images now</string>
+    <string name="empty_search">There are no results!</string>
+    <string name="delete">Delete</string>
+    <string name="editProp">Edit</string>
+    <string name="add_done">The property has been successfully added</string>
+    <string name="delete_done">The property has been successfully deleted</string>
+    <string name="edit_done">The property information has been modified successfully</string>
+
+    <string name="old_first">Oldest first</string>
+    <string name="new_first">Newest first</string>
+    <string name="expensive_first">Most expensive first</string>
+    <string name="cheaper_first">Cheaper first</string>
+
+
+    <string name="active">Notifications has been enabled</string>
+    <string name="diactive">Notifications have been stopped</string>
+
+
+
+    <string-array name="why_pay">
+        <item>For sale</item>
+        <item>For Rent</item>
+    </string-array>
+
+    <string-array name="pay_method">
+        <item>Cash</item>
+        <item>Installment</item>
+    </string-array>
+
+    <string-array name="furniture">
+        <item>Furnished</item>
+        <item>Unfurnished</item>
+    </string-array>
+</resources>
