@@ -36,7 +36,6 @@ class SearchActivity : AppCompatActivity(), PopupMenu.OnMenuItemClickListener {
     private lateinit var search: EditText
     private lateinit var properties: RecyclerView
     private lateinit var empty: TextView
-
     private var currentLang = ""
     private lateinit var token: String
 
