@@ -20,11 +20,11 @@ class ServiceBuilder {
             apis = getRetrofitInstance(client).create(Api::class.java)
         }
 
-        fun getRetrofitInstance(client:OkHttpClient): Retrofit =
-             Retrofit.Builder()
+        fun getRetrofitInstance(client: OkHttpClient): Retrofit =
+            Retrofit.Builder()
                 .baseUrl(baseURL)
                 .addConverterFactory(GsonConverterFactory.create())
-                 .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
+                .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                 .client(client)
                 .build()
 

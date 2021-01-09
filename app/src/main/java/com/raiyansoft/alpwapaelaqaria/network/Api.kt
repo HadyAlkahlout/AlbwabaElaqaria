@@ -4,7 +4,6 @@ import com.raiyansoft.alpwapaelaqaria.model.*
 import okhttp3.MultipartBody
 import okhttp3.RequestBody
 import retrofit2.Call
-import retrofit2.Response
 import retrofit2.http.*
 
 interface Api {
@@ -38,26 +37,26 @@ interface Api {
     fun getRXProfile(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String
-    ): Response<ProfileResponse>
+    ): Call<ProfileResponse>
 
     @GET("home")
     fun getHome(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String
-    ): Response<HomeResponse>
+    ): Call<HomeResponse>
 
     @GET("properties/categories")
     fun getCategories(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String
-    ): Response<CategoriesResponse>
+    ): Call<CategoriesResponse>
 
     @GET("properties/categories")
     fun getExtraCategories(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String,
         @Query("page") page: Int
-    ): Response<CategoriesResponse>
+    ): Call<CategoriesResponse>
 
     @GET("properties/categories")
     fun getRTCategories(
@@ -82,7 +81,7 @@ interface Api {
     fun getRXFav(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String
-    ): Response<FavoritResponse>
+    ): Call<FavoritResponse>
 
     @GET("properties/index/special")
     fun getSpecialProperties(
@@ -170,14 +169,14 @@ interface Api {
     fun getRXAllSeller(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String
-    ): Response<AllSellerResponse>
+    ): Call<AllSellerResponse>
 
     @GET("properties/users/all")
     fun getRXExtraAllSeller(
         @Header("lang") lang: String,
         @Header("Authorization") Authorization: String,
         @Query("page") page: Int
-    ): Response<AllSellerResponse>
+    ): Call<AllSellerResponse>
 
     @GET("properties/details/{id}")
     fun getPropertyDetails(
@@ -214,7 +213,7 @@ interface Api {
         @Query("lat") lat: Double,
         @Query("lng") lng: Double,
         @Query("radius") radius: Int
-    ): Response<MapResponse>
+    ): Call<MapResponse>
 
     @Multipart
     @POST("user/update")
